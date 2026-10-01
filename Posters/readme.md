@@ -1,0 +1,5 @@
+# Posters
+
+## 2026 
+Franzon, F., Gómez, N. R., & Wanner, L. (2026). Light or Full Verb? A Minimal-Pair Dataset for Probing Phraseological Competence in Language Models. _EMNLP 2026_
+[Article Preprint](https://arxiv.org/pdf/2606.05087) [Poster]
