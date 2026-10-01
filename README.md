@@ -3,8 +3,7 @@
 Welcome! 
 In this repo, you will find communications by the XplainLing group.
 
-[Posters](https://github.com/XplainLing/communications/tree/main/Posters) - Presentations - Articles (listed below) 
-
+[Posters](https://github.com/XplainLing/communications/tree/main/Posters) - [Presentations](https://github.com/XplainLing/communications/tree/main/Presentations) - Articles (listed below) 
 
 ## Articles
 ### 2026 
